@@ -2,7 +2,6 @@ import Player from "./components/player"
 import GameBoard from "./components/GameBoard"
 import { useState } from "react"
 import Log from "./components/Log"
-import player from "./components/player"
 import { WINNING_COMBINATIONS } from "./winning-combinations";
 import GameWinner from "./components/GameWinner"
 
